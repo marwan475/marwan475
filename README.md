@@ -38,7 +38,7 @@ I am a current computer science student studying at the University Of Saskatchew
 - Network programing
 - Linux development
 - Windows Development
-- Multithread programing
+- Multithreaded programing
 - Mulitprocces programing
 - Web Development
 - Scripting

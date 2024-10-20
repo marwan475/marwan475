@@ -31,6 +31,7 @@ I am a current computer science student studying at the University Of Saskatchew
 - MySQL
 - Node
 - Flask
+- OpenCL
 
 #
 
